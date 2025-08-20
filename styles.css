@@ -1,3 +1,11 @@
 p {
     background-color:  green;
+    height: 200px;
+}
+header {
+    color:#000;
+}
+footer {
+    background-color: green;
+    height: 300px;
 }
